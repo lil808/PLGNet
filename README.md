@@ -1,3 +1,7 @@
 # PLGNet: Prior-guided Local and Global Interactive Hybrid Network for Face Super-Resolution
 
-![example result](Imgs/PLGNet.png)
+![architecture](Imgs/PLGNet.png)
+
+The code is coming soon...
+
+##
